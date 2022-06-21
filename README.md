@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/TahiR-ManzooR-110" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/TahiR-ManzooR-110" height="40" width="40" /></a>
 </p>
 
-- 💬 Ask me about ***HTML, CSS, JAVASCRIPT***
+- 💬 Ask me about ***HTML, CSS, JAVASCRIPT*** or any tech related stuff.
 
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
