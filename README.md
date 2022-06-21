@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently pursuing ***Full Stack Web Development at Masai School***
 
-- 👨‍💻 All of my projects are available at [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://github.com/TahiR-ManzooR-110)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/TahiR-ManzooR-110" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/TahiR-ManzooR-110" height="40" width="40" /></a>
+</p>
 
 - 💬 Ask me about ***HTML, CSS, JAVASCRIPT***
 
@@ -23,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact" alt="tahir-manzoor-110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en" alt="tahir-manzoor-110" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en" alt="tahir-manzoor-110" width="400"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-manzoor-110&" alt="tahir-manzoor-110" /></p>
