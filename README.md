@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahir-manzoor-110" alt="tahir-manzoor-110" /></a> </p>
 
-- 🌱 I’m currently pursuing **Full Stack Web Development at Masai School**
+- 🌱 I’m currently pursuing ***Full Stack Web Development at Masai School***
 
-- 👨‍💻 All of my projects are available at [https://github.com/TahiR-ManzooR-110](https://github.com/TahiR-ManzooR-110)
+- 👨‍💻 All of my projects are available at [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)](https://github.com/TahiR-ManzooR-110)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about ***HTML, CSS, JAVASCRIPT***
 
-- 📫 How to reach me **tahirmanzoorbhat110@gmail.com**
+- 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
