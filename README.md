@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact" alt="tahir-manzoor-110" /></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en" alt="tahir-manzoor-110" width="480" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en" alt="tahir-manzoor-110" width="450" /></p>
