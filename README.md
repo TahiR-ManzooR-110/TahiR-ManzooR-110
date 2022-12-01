@@ -1,16 +1,72 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110" /> </p>
+<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h4 align="center">I am passionate about programming, solving problems and creating visually pleasing experiences</h4>
 
-<!--
-**TahiR-ManzooR-110/TahiR-ManzooR-110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-Here are some ideas to get you started:
+### :man_technologist: &nbsp;About Me :
+- 🌍 I'm from ***Srinagar, Jammu and Kashmir, India.***
+- 🌱 I’m currently pursuing ***Java Backend Development at Masai School***
+- 👨‍💻 All of my projects are available at <a href="https://tahir-manzoor-110.github.io" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://tahir-manzoor-portfolio.github.io" height="40" width="40" /></a>
+- 💬 Ask me about ***HTML, CSS, JAVASCRIPT, JAVA*** or any tech related stuff.
+- 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 &nbsp;Connect with me :
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tahir-manzoor-589968231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.hackerrank.com/Tahir_Manzoor"><img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"></a>
+</p>
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/> 
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=MySQL&logoColor=white" alt="Mysql"/> 
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
+	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+</p>
+
+### 🚀 &nbsp;My Best Projects :
+
+<table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+         <td><b> ♦️Live </b></td>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b></a></td>
+          <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b></a></td>
+       </tr>
+       <tr>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Expedia-Clone-"><b> Expedia-Clone-</b></a></td>
+          <td><a target="_blank"  href="https://expedia-masai.netlify.app/"><b> Expedia Live</b></a></td>
+      </tr>
+       <tr>
+	         <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/My-Youtube" ><b> My-Youtube</b></a></td>
+           <td><a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b></a></td>
+       </tr>
+       <tr>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Mini-Food-App"><b>Mini-Food-App</b></a></td>
+          <td><a target="_blank"  href="https://thriving-chaja-326f1b.netlify.app/"><b> Mini-Food-App Live</b></a></td>
+      </tr>
+       </tbody>
+  </table>
+
+### 🔥 &nbsp;My GitHub Stats & Trophy :
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahir-manzoor-110&theme=dark_lover&margin-w=16" alt="tahir-manzoor-110"/></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-manzoor-110&theme=dark&background=000000" alt="tahir-manzoor-110" width="1000" height="300"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="400"/></p>
+
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="400" /></p>
