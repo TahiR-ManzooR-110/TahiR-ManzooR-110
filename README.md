@@ -16,20 +16,23 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tahir-manzoor-589968231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.hackerrank.com/Tahir_Manzoor"><img src="https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"></a>
+<a href="https://www.hackerrank.com/Tahir_Manzoor"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
 </p>
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
+  <a href="#"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>&nbsp;
   <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/></a>&nbsp;
   <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/></a>&nbsp;
   <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/>    </a>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=MySQL&logoColor=white" alt="Mysql"/> 
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
-	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+  <a href="#"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/></a>&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+  <a href="#"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code"/></a>&nbsp;
 </p>
 
 ### 🚀 &nbsp;My Best Projects :
