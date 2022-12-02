@@ -22,10 +22,10 @@
 ### 🛠 &nbsp;Languages and Tools :
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/> 
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
-	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/> 
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
+  <a href="#"> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/></a>&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/></a>&nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/>    </a>&nbsp;
   <img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MySQL-purple?style=for-the-badge&logo=MySQL&logoColor=white" alt="Mysql"/> 
   <img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
