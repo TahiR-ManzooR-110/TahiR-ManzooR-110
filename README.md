@@ -70,6 +70,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-manzoor-110&theme=dark&background=000000" alt="tahir-manzoor-110" width="1000" height="300"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="380"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="370"/></p>
 
 <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="450"/></p>
