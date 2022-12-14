@@ -72,4 +72,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="380"/></p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="440"/></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahir-manzoor-110&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="450"/></p>
