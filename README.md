@@ -3,7 +3,7 @@
 <h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <h3 align="center">A Java backend developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
 ### :man_technologist: &nbsp;About Me :
 - 🌍 I'm from ***Srinagar, Jammu and Kashmir, India.***
@@ -15,7 +15,7 @@
 ### 📞 &nbsp;Connect with me :
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tahir-manzoor-589968231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"> </a>
+<a href="https://www.linkedin.com/in/tahir-manzoor-589968231/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://www.hackerrank.com/Tahir_Manzoor"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
 </p>
 
@@ -54,8 +54,8 @@
           <td><a target="_blank"  href="https://expedia-masai.netlify.app/"><b> Expedia Live</b></a></td>
       </tr>
        <tr>
-	         <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/My-Youtube" ><b> My-Youtube</b></a></td>
-           <td><a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b></a></td>
+	  <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/My-Youtube" ><b> My-Youtube</b></a></td>
+          <td><a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b></a></td>
        </tr>
        <tr>
           <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Mini-Food-App"><b>Mini-Food-App</b></a></td>
