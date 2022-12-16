@@ -1,5 +1,5 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/> </p>
-<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/></p>
+<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <h3 align="center">A Java backend developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
