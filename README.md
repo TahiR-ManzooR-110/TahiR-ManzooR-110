@@ -1,9 +1,15 @@
+<<<<<<< HEAD
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/></p>
 <h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+=======
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/> </p>
+<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+>>>>>>> 476b4ab517db17036e4039e516a53b2d5e350349
 <h3 align="center">A Java backend developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </p>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -27,12 +33,12 @@
   <a href="#"><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&logo=python&logoColor=ffdd54" alt="Python"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&labelColor=blue&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>&nbsp;
   <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
-  <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code"/></a>&nbsp;
 </p>
 
@@ -47,16 +53,21 @@
     </thead>
     <tbody>
         <tr>
+<<<<<<< HEAD
           <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b></a> </td>
           <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b></a> </td>
+=======
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b> </a> </td>
+          <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b> </a> </td>
+>>>>>>> 476b4ab517db17036e4039e516a53b2d5e350349
        </tr>
        <tr>
-          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Expedia-Clone-"><b> Expedia-Clone-</b></a></td>
-          <td><a target="_blank"  href="https://expedia-masai.netlify.app/"><b> Expedia Live</b></a></td>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Expedia-Clone-"><b> Expedia-Clone-</b> </a> </td>
+          <td><a target="_blank"  href="https://expedia-masai.netlify.app/"><b> Expedia Live</b> </a> </td>
       </tr>
        <tr>
-	        <td> <a target="_blank"  href="https://github.com/TahiR-ManzooR-110/My-Youtube" ><b> My-Youtube</b></a></td>
-          <td> <a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b></a></td>
+	  <td> <a target="_blank"  href="https://github.com/TahiR-ManzooR-110/My-Youtube" ><b> My-Youtube</b> </a> </td>
+          <td> <a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b> </a> </td>
        </tr>
        <tr>
           <td> <a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Mini-Food-App"><b>Mini-Food-App</b> </a> </td>
