@@ -1,15 +1,15 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/></p>
-<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/> </p>
+<h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h3 align="center">Java Backend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <h3 align="center">A Java backend developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> </p>
 
 ### :man_technologist: &nbsp;About Me :
 
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India._**
 - 🌱 I’m currently pursuing **_Java Backend Development at Masai School_**
-- 👨‍💻 All of my projects are available at <a href="https://tahir-manzoor-110.github.io" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://tahir-manzoor-portfolio.github.io" height="40" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://tahir-manzoor-110.github.io" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://tahir-manzoor-portfolio.github.io" height="40" width="40" /> </a>
 - 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA_** or any tech related stuff.
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
