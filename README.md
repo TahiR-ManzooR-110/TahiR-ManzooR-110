@@ -9,8 +9,13 @@
 
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India._**
 - 🌱 I’m currently pursuing **_Java Backend Development at Masai School_**
+<<<<<<< HEAD
 - 👨‍💻 All of my projects are available at <a href="https://tahir-manzoor-110.github.io" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://tahir-manzoor-portfolio.github.io" height="40" width="40" /> </a>
 - 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA_** or any tech related stuff.
+=======
+- 👨‍💻 All of my projects are available at <a href="https://tahir-manzoor-110.github.io" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://tahir-manzoor-portfolio.github.io" height="40" width="40" /></a>
+- 💬 Ask me about **_HTML, CSS, JAVASCRIPT, PYTHON, JAVA, JDBC, SQL_** or any tech related stuff.
+>>>>>>> 47da50acaa7d58eb3a2d02369ac65699df740723
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
 ### 📞 &nbsp;Connect with me :
@@ -47,8 +52,8 @@
     </thead>
     <tbody>
         <tr>
-          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b></a> </td>
-          <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b></a> </td>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b></a></td>
+          <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b></a></td>
        </tr>
        <tr>
           <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Expedia-Clone-"><b> Expedia-Clone-</b></a></td>
@@ -59,8 +64,8 @@
           <td> <a target="_blank"  href="https://ornate-pie-ca75ff.netlify.app/" ><b> My-Youtube Live</b></a></td>
        </tr>
        <tr>
-          <td> <a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Mini-Food-App"><b>Mini-Food-App</b> </a> </td>
-          <td> <a target="_blank"  href="https://thriving-chaja-326f1b.netlify.app/"><b> Mini-Food-App Live</b> </a> </td>
+          <td> <a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Mini-Food-App"><b>Mini-Food-App</b></a></td>
+          <td> <a target="_blank"  href="https://thriving-chaja-326f1b.netlify.app/"><b> Mini-Food-App Live</b></a></td>
       </tr>
        </tbody>
   </table>
