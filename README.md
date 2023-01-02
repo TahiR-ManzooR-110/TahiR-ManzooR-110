@@ -69,7 +69,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahir-manzoor-110&theme=dark_lover&margin-w=16" alt="tahir-manzoor-110"/></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahir-manzoor-110&theme=dark&background=000000" alt="tahir-manzoor-110" width="1000" height="300"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TahiR-ManzooR-110&theme=dark&background=000000" alt="tahir-manzoor-110" width="1000" height="300"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahir-manzoor-110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tahir-manzoor-110" width="370"/></p>
 
