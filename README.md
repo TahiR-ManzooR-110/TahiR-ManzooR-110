@@ -29,6 +29,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>&nbsp;
   <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
