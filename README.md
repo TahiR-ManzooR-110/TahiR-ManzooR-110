@@ -10,6 +10,7 @@
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India._**
 - 🌱 I’m currently pursuing **_Java Backend Development at Masai School_**
 - 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA_** or any tech related stuff.
+- 👨‍💻 Checkout my portfolio ***tahir-manzoor-110.github.io***
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
 
 ### 📞 &nbsp;Connect with me :
