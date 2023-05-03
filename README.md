@@ -8,7 +8,7 @@
 ### :man_technologist: &nbsp;About Me :
 
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India._**
-- 🌱 I’m currently learning **_Spring Framework and microservices_**
+- 🌱 I’m currently learning **_React.js_**
 - 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA_** or any tech related stuff.
 - 👨‍💻 Checkout my portfolio ***https://tahir-manzoor-110.github.io/***
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***
