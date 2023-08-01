@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
   <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code"/></a>&nbsp;
-</p>
+ </p>
 
 ### 🚀 &nbsp;My Best Projects :
 
