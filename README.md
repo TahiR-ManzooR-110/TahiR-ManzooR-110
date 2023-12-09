@@ -1,7 +1,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tahir-manzoor-110&label=Profile%20views&color=0e75b6&style=flat" alt="tahir-manzoor-110"/> </p>
 <h1 align="center">Hi , I'm Tahir Manzoor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
-<h3 align="center">Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<h3 align="center">A full stack web developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
+<h3 align="center">Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">A full stack developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
@@ -9,7 +9,7 @@
 
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India_**.
 - 🌱 I’m currently learning **_React.js_**.
-- 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA_** or any tech related stuff.
+- 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA, MERN_** or any tech related stuff.
 - 👨‍💻 Checkout my portfolio ***https://tahir-manzoor-110.github.io/***.
 - 📫 How to reach me ***tahirmanzoorbhat110@gmail.com***.
 
@@ -32,6 +32,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>&nbsp;
   <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
   <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
