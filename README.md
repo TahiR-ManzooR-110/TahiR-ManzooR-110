@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
 
-### :man_technologist: &nbsp;About Me :
+### 👨🏻‍💻 &nbsp;About Me :
 
 - 🌍 I'm from **_Srinagar, Jammu and Kashmir, India_**.
 - 🌱 I’m currently learning **_React.js_**.
