@@ -55,6 +55,10 @@
 	  <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Amusement-Park-Application"><b>Amusement-Park-Application</b></a></td>
 	  <td><a target="_blank"  href="https://drive.google.com/file/d/1iYBUkNSiqt52K-75weRrggE_h5cWhMEr/view"><b>Live Demo</b></a></td>
 	</tr>
+	<tr>
+          <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/CoolHamstersClub"><b>CoolHamstersClub</b></a></td>
+          <td><a target="_blank"  href="https://www.coolhamstersclub.com/"><b> CoolHamstersClub Live</b></a></td>
+       </tr>
         <tr>
           <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Lifestylestores-Clone-"><b>Lifestylestores-Clone-</b></a></td>
           <td><a target="_blank"  href="https://effulgent-bunny-9b4272.netlify.app/"><b> Lifestylestores Live</b></a></td>
