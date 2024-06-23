@@ -53,7 +53,7 @@
     <tbody>
 	<tr>
           <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/CoolHamstersClub"><b>CoolHamstersClub</b></a></td>
-          <td><a target="_blank"  href="https://www.coolhamstersclub.com/"><b> CoolHamstersClub Live</b></a></td>
+          <td><a target="_blank"  href="https://www.coolhamstersclub.in/"><b> CoolHamstersClub Live</b></a></td>
        </tr>
 	<tr>
 	  <td><a target="_blank"  href="https://github.com/TahiR-ManzooR-110/Amusement-Park-Application"><b>Amusement-Park-Application</b></a></td>
